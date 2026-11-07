@@ -10,7 +10,8 @@
     "thumbnail": "remotion still SpaceScale out/thumbnail.png --frame=290",
     "transcribe": "node scripts/transcribe.mjs",
     "lint": "tsc --noEmit",
-    "upgrade": "remotion upgrade"
+    "upgrade": "remotion upgrade",
+    "avatar": "remotion still ProfilePic out/avatar-monogram.png --props={\\\"variant\\\":\\\"monogram\\\"} && remotion still ProfilePic out/avatar-icon.png --props={\\\"variant\\\":\\\"icon\\\"}"
   },
   "dependencies": {
     "@fontsource/montserrat": "^5.3.0",
