@@ -1,0 +1,15 @@
+[
+  { "text": "Welcome", "startMs": 300, "endMs": 800, "timestampMs": 550, "confidence": 1 },
+  { "text": " to", "startMs": 800, "endMs": 1000, "timestampMs": 900, "confidence": 1 },
+  { "text": " the", "startMs": 1000, "endMs": 1200, "timestampMs": 1100, "confidence": 1 },
+  { "text": " third", "startMs": 1200, "endMs": 1600, "timestampMs": 1400, "confidence": 1 },
+  { "text": " dimension", "startMs": 1600, "endMs": 2300, "timestampMs": 1950, "confidence": 1 },
+  { "text": " Three.js", "startMs": 2800, "endMs": 3500, "timestampMs": 3150, "confidence": 1 },
+  { "text": " plus", "startMs": 3500, "endMs": 3800, "timestampMs": 3650, "confidence": 1 },
+  { "text": " Remotion", "startMs": 3800, "endMs": 4600, "timestampMs": 4200, "confidence": 1 },
+  { "text": " equals", "startMs": 5000, "endMs": 5500, "timestampMs": 5250, "confidence": 1 },
+  { "text": " magic", "startMs": 5500, "endMs": 6400, "timestampMs": 5950, "confidence": 1 },
+  { "text": " Follow", "startMs": 7200, "endMs": 7700, "timestampMs": 7450, "confidence": 1 },
+  { "text": " for", "startMs": 7700, "endMs": 7900, "timestampMs": 7800, "confidence": 1 },
+  { "text": " more", "startMs": 7900, "endMs": 8600, "timestampMs": 8250, "confidence": 1 }
+]

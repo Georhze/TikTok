@@ -1,0 +1,32 @@
+{
+  "name": "tiktok-3d-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D animated vertical videos with Three.js + Remotion (captions, audio, rendering)",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Main3D out/video.mp4",
+    "render:all": "remotion render Main3D out/video.mp4 && remotion still Main3D out/thumbnail.png --frame=60",
+    "transcribe": "node scripts/transcribe.mjs",
+    "lint": "tsc --noEmit",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/captions": "4.0.541",
+    "@remotion/cli": "4.0.541",
+    "@remotion/install-whisper-cpp": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "@remotion/three": "4.0.541",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.541",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/three": "0.187.0",
+    "typescript": "5.9.3"
+  }
+}
