@@ -5,13 +5,15 @@
   "description": "3D animated vertical videos with Three.js + Remotion (captions, audio, rendering)",
   "scripts": {
     "dev": "remotion studio",
-    "render": "remotion render Main3D out/video.mp4",
-    "render:all": "remotion render Main3D out/video.mp4 && remotion still Main3D out/thumbnail.png --frame=60",
+    "render": "remotion render SpaceScale out/space-scale.mp4",
+    "render:demo": "remotion render Main3D out/video.mp4",
+    "thumbnail": "remotion still SpaceScale out/thumbnail.png --frame=290",
     "transcribe": "node scripts/transcribe.mjs",
     "lint": "tsc --noEmit",
     "upgrade": "remotion upgrade"
   },
   "dependencies": {
+    "@fontsource/montserrat": "^5.3.0",
     "@react-three/drei": "10.7.9",
     "@react-three/fiber": "9.8.2",
     "@remotion/captions": "4.0.541",

@@ -1,0 +1,506 @@
+[
+ {
+  "text": "You",
+  "startMs": 250,
+  "endMs": 464,
+  "timestampMs": 357,
+  "confidence": 1
+ },
+ {
+  "text": " think",
+  "startMs": 464,
+  "endMs": 764,
+  "timestampMs": 614,
+  "confidence": 1
+ },
+ {
+  "text": " Earth",
+  "startMs": 764,
+  "endMs": 1064,
+  "timestampMs": 914,
+  "confidence": 1
+ },
+ {
+  "text": " is",
+  "startMs": 1064,
+  "endMs": 1235,
+  "timestampMs": 1149,
+  "confidence": 1
+ },
+ {
+  "text": " big?",
+  "startMs": 1235,
+  "endMs": 1577,
+  "timestampMs": 1406,
+  "confidence": 1
+ },
+ {
+  "text": " Watch",
+  "startMs": 1577,
+  "endMs": 1877,
+  "timestampMs": 1727,
+  "confidence": 1
+ },
+ {
+  "text": " this.",
+  "startMs": 1877,
+  "endMs": 2263,
+  "timestampMs": 2070,
+  "confidence": 1
+ },
+ {
+  "text": " This",
+  "startMs": 2613,
+  "endMs": 2881,
+  "timestampMs": 2747,
+  "confidence": 1
+ },
+ {
+  "text": " is",
+  "startMs": 2881,
+  "endMs": 3059,
+  "timestampMs": 2970,
+  "confidence": 1
+ },
+ {
+  "text": " Jupiter.",
+  "startMs": 3059,
+  "endMs": 3596,
+  "timestampMs": 3327,
+  "confidence": 1
+ },
+ {
+  "text": " Thirteen",
+  "startMs": 3596,
+  "endMs": 4042,
+  "timestampMs": 3819,
+  "confidence": 1
+ },
+ {
+  "text": " hundred",
+  "startMs": 4042,
+  "endMs": 4444,
+  "timestampMs": 4243,
+  "confidence": 1
+ },
+ {
+  "text": " Earths",
+  "startMs": 4444,
+  "endMs": 4802,
+  "timestampMs": 4623,
+  "confidence": 1
+ },
+ {
+  "text": " could",
+  "startMs": 4802,
+  "endMs": 5115,
+  "timestampMs": 4958,
+  "confidence": 1
+ },
+ {
+  "text": " fit",
+  "startMs": 5115,
+  "endMs": 5338,
+  "timestampMs": 5226,
+  "confidence": 1
+ },
+ {
+  "text": " inside",
+  "startMs": 5338,
+  "endMs": 5696,
+  "timestampMs": 5517,
+  "confidence": 1
+ },
+ {
+  "text": " it.",
+  "startMs": 5696,
+  "endMs": 6008,
+  "timestampMs": 5852,
+  "confidence": 1
+ },
+ {
+  "text": " But",
+  "startMs": 6358,
+  "endMs": 6578,
+  "timestampMs": 6468,
+  "confidence": 1
+ },
+ {
+  "text": " next",
+  "startMs": 6578,
+  "endMs": 6842,
+  "timestampMs": 6710,
+  "confidence": 1
+ },
+ {
+  "text": " to",
+  "startMs": 6842,
+  "endMs": 7018,
+  "timestampMs": 6930,
+  "confidence": 1
+ },
+ {
+  "text": " the",
+  "startMs": 7018,
+  "endMs": 7238,
+  "timestampMs": 7128,
+  "confidence": 1
+ },
+ {
+  "text": " Sun,",
+  "startMs": 7238,
+  "endMs": 7590,
+  "timestampMs": 7414,
+  "confidence": 1
+ },
+ {
+  "text": " Jupiter",
+  "startMs": 7590,
+  "endMs": 7986,
+  "timestampMs": 7788,
+  "confidence": 1
+ },
+ {
+  "text": " is",
+  "startMs": 7986,
+  "endMs": 8162,
+  "timestampMs": 8074,
+  "confidence": 1
+ },
+ {
+  "text": " tiny.",
+  "startMs": 8162,
+  "endMs": 8558,
+  "timestampMs": 8360,
+  "confidence": 1
+ },
+ {
+  "text": " One",
+  "startMs": 8908,
+  "endMs": 9124,
+  "timestampMs": 9016,
+  "confidence": 1
+ },
+ {
+  "text": " point",
+  "startMs": 9124,
+  "endMs": 9426,
+  "timestampMs": 9275,
+  "confidence": 1
+ },
+ {
+  "text": " three",
+  "startMs": 9426,
+  "endMs": 9729,
+  "timestampMs": 9578,
+  "confidence": 1
+ },
+ {
+  "text": " million",
+  "startMs": 9729,
+  "endMs": 10118,
+  "timestampMs": 9923,
+  "confidence": 1
+ },
+ {
+  "text": " Earths",
+  "startMs": 10118,
+  "endMs": 10464,
+  "timestampMs": 10291,
+  "confidence": 1
+ },
+ {
+  "text": " could",
+  "startMs": 10464,
+  "endMs": 10766,
+  "timestampMs": 10615,
+  "confidence": 1
+ },
+ {
+  "text": " fit",
+  "startMs": 10766,
+  "endMs": 10982,
+  "timestampMs": 10874,
+  "confidence": 1
+ },
+ {
+  "text": " inside",
+  "startMs": 10982,
+  "endMs": 11328,
+  "timestampMs": 11155,
+  "confidence": 1
+ },
+ {
+  "text": " the",
+  "startMs": 11328,
+  "endMs": 11544,
+  "timestampMs": 11436,
+  "confidence": 1
+ },
+ {
+  "text": " Sun.",
+  "startMs": 11544,
+  "endMs": 11890,
+  "timestampMs": 11717,
+  "confidence": 1
+ },
+ {
+  "text": " Now",
+  "startMs": 12240,
+  "endMs": 12488,
+  "timestampMs": 12364,
+  "confidence": 1
+ },
+ {
+  "text": " meet",
+  "startMs": 12488,
+  "endMs": 12786,
+  "timestampMs": 12637,
+  "confidence": 1
+ },
+ {
+  "text": " UY",
+  "startMs": 12786,
+  "endMs": 12984,
+  "timestampMs": 12885,
+  "confidence": 1
+ },
+ {
+  "text": " Scuti,",
+  "startMs": 12984,
+  "endMs": 13481,
+  "timestampMs": 13233,
+  "confidence": 1
+ },
+ {
+  "text": " one",
+  "startMs": 13481,
+  "endMs": 13729,
+  "timestampMs": 13605,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 13729,
+  "endMs": 13928,
+  "timestampMs": 13828,
+  "confidence": 1
+ },
+ {
+  "text": " the",
+  "startMs": 13928,
+  "endMs": 14176,
+  "timestampMs": 14052,
+  "confidence": 1
+ },
+ {
+  "text": " biggest",
+  "startMs": 14176,
+  "endMs": 14623,
+  "timestampMs": 14399,
+  "confidence": 1
+ },
+ {
+  "text": " stars",
+  "startMs": 14623,
+  "endMs": 14970,
+  "timestampMs": 14797,
+  "confidence": 1
+ },
+ {
+  "text": " we",
+  "startMs": 14970,
+  "endMs": 15169,
+  "timestampMs": 15070,
+  "confidence": 1
+ },
+ {
+  "text": " know.",
+  "startMs": 15169,
+  "endMs": 15616,
+  "timestampMs": 15392,
+  "confidence": 1
+ },
+ {
+  "text": " Hundreds",
+  "startMs": 15966,
+  "endMs": 16382,
+  "timestampMs": 16174,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 16382,
+  "endMs": 16548,
+  "timestampMs": 16465,
+  "confidence": 1
+ },
+ {
+  "text": " millions",
+  "startMs": 16548,
+  "endMs": 16964,
+  "timestampMs": 16756,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 16964,
+  "endMs": 17130,
+  "timestampMs": 17047,
+  "confidence": 1
+ },
+ {
+  "text": " Suns",
+  "startMs": 17130,
+  "endMs": 17380,
+  "timestampMs": 17255,
+  "confidence": 1
+ },
+ {
+  "text": " could",
+  "startMs": 17380,
+  "endMs": 17671,
+  "timestampMs": 17525,
+  "confidence": 1
+ },
+ {
+  "text": " fit",
+  "startMs": 17671,
+  "endMs": 17878,
+  "timestampMs": 17775,
+  "confidence": 1
+ },
+ {
+  "text": " inside",
+  "startMs": 17878,
+  "endMs": 18211,
+  "timestampMs": 18045,
+  "confidence": 1
+ },
+ {
+  "text": " it.",
+  "startMs": 18211,
+  "endMs": 18502,
+  "timestampMs": 18357,
+  "confidence": 1
+ },
+ {
+  "text": " And",
+  "startMs": 18852,
+  "endMs": 19063,
+  "timestampMs": 18958,
+  "confidence": 1
+ },
+ {
+  "text": " it's",
+  "startMs": 19063,
+  "endMs": 19274,
+  "timestampMs": 19168,
+  "confidence": 1
+ },
+ {
+  "text": " just",
+  "startMs": 19274,
+  "endMs": 19527,
+  "timestampMs": 19400,
+  "confidence": 1
+ },
+ {
+  "text": " one",
+  "startMs": 19527,
+  "endMs": 19738,
+  "timestampMs": 19632,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 19738,
+  "endMs": 19906,
+  "timestampMs": 19822,
+  "confidence": 1
+ },
+ {
+  "text": " billions",
+  "startMs": 19906,
+  "endMs": 20328,
+  "timestampMs": 20117,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 20328,
+  "endMs": 20497,
+  "timestampMs": 20412,
+  "confidence": 1
+ },
+ {
+  "text": " stars",
+  "startMs": 20497,
+  "endMs": 20792,
+  "timestampMs": 20644,
+  "confidence": 1
+ },
+ {
+  "text": " in",
+  "startMs": 20792,
+  "endMs": 20960,
+  "timestampMs": 20876,
+  "confidence": 1
+ },
+ {
+  "text": " our",
+  "startMs": 20960,
+  "endMs": 21171,
+  "timestampMs": 21066,
+  "confidence": 1
+ },
+ {
+  "text": " galaxy.",
+  "startMs": 21171,
+  "endMs": 21635,
+  "timestampMs": 21403,
+  "confidence": 1
+ },
+ {
+  "text": " Follow",
+  "startMs": 21985,
+  "endMs": 22356,
+  "timestampMs": 22170,
+  "confidence": 1
+ },
+ {
+  "text": " for",
+  "startMs": 22356,
+  "endMs": 22587,
+  "timestampMs": 22472,
+  "confidence": 1
+ },
+ {
+  "text": " more",
+  "startMs": 22587,
+  "endMs": 22865,
+  "timestampMs": 22726,
+  "confidence": 1
+ },
+ {
+  "text": " mind-blowing",
+  "startMs": 22865,
+  "endMs": 23468,
+  "timestampMs": 23167,
+  "confidence": 1
+ },
+ {
+  "text": " space",
+  "startMs": 23468,
+  "endMs": 23792,
+  "timestampMs": 23630,
+  "confidence": 1
+ },
+ {
+  "text": " facts.",
+  "startMs": 23792,
+  "endMs": 24255,
+  "timestampMs": 24024,
+  "confidence": 1
+ }
+]
